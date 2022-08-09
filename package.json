@@ -1,0 +1,16 @@
+{
+  "name": "automated-consuling-website-root",
+  "version": "0.0.1",
+  "description": "Website for Automation Solutions",
+  "main": "index.js",
+  "authors": {
+    "name": "Nicholas Quezada",
+    "email": "nicholas.quezada@outlook.com"
+  },
+  "repository": "https://github.com/nicholasq/automated-consulting-website.git/automated-consulting-website",
+  "scripts": {
+    "dev": "cd docs && npm run dev",
+    "build": "cd docs && npm run build"
+  },
+  "license": "MIT"
+}

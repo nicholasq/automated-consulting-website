@@ -1,3 +1,4 @@
 # Automated Consulting
 
-## Welcome
+- Cisco DNA configuration
+- Web application development
