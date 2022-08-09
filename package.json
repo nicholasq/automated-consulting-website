@@ -9,8 +9,7 @@
   },
   "repository": "https://github.com/nicholasq/automated-consulting-website.git/automated-consulting-website",
   "scripts": {
-    "dev": "cd docs && npm ci && npm run dev",
-    "build": "cd docs && npm run build"
+    "build": "cd docs && npm ci && npm run dev"
   },
   "license": "MIT"
 }
