@@ -9,7 +9,11 @@
   },
   "repository": "https://github.com/nicholasq/automated-consulting-website.git/automated-consulting-website",
   "scripts": {
-    "build": "cd docs && npm ci && npm run dev"
+    "dev": "vuepress dev docs/src",
+    "build": "vuepress build docs/src"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.3"
   },
   "license": "MIT"
 }

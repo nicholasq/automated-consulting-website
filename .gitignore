@@ -3,3 +3,4 @@
 docs/node_modules/
 docs/src/.vuepress/dist/
 .firebase/
+node_modules/
