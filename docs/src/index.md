@@ -1,3 +1,3 @@
-# Automated solutions
+# Automated Consulting
 
 ## Welcome

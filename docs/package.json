@@ -1,5 +1,5 @@
 {
-  "name": "automated-solutions-website",
+  "name": "automated-consuling-website",
   "version": "0.0.1",
   "description": "Website for Automation Solutions",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "name": "Nicholas Quezada",
     "email": "nicholas.quezada@outlook.com"
   },
-  "repository": "https://github.com/nicholasq/automated-solutions-website.git/automated-solutions-website",
+  "repository": "https://github.com/nicholasq/automated-consulting-website.git/automated-consulting-website",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
